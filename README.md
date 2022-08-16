@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin
 - 👀 I’m interested in Machine Learning, Computer Vision and Natural Language Processing
-- 🌱 I’m currently learning Full Stack Cloud Development
+- 🌱 I’m currently pursuing MTech AI @ IISc Bangalore
 - 💞️ I’m looking to collaborate on ML Modeling and Projects
 - 📫 You can reach me at sachin10894@gmail.com
 
