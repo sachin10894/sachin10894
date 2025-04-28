@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sachin
-- 👀 I’m interested in Machine Learning, Computer Vision and Natural Language Processing
-- 🌱 I’m currently pursuing MTech AI @ IISc Bangalore
+- 👀 I’m interested in Machine Learning, Natural Language Processing and High Performance Computing
+- 🌱 I’m currently working as a Data Scientist @ Fortune 50 Retail Company
+- 🎓 I completed my postgrad i.e. MTech AI from IISc Bangalore, India
 - 💞️ I’m looking to collaborate on ML Modeling and Projects
 - 📫 You can reach me at sachin10894@gmail.com
 
